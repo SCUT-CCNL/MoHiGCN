@@ -9,3 +9,5 @@
 *utils.py*: Supporting functions    
 
 \* Equal contribution
+
+Omics data can be downloaded from the Xena website. If you have any questions about the use of the data, please contact the corresponding author.
